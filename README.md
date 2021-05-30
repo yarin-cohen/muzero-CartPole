@@ -32,6 +32,7 @@ containing all 3 models.
   * Plays the game for X iterations
   * Collects and saves proper data
   * Trains on data - Experience Replay.
+  * Saves training plots.
 * It's important to note that both values and rewards as outputs from the relevant models are encoded and normalized
 exactly as detailed in the original paper.
 
