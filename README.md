@@ -1,8 +1,8 @@
 # MuZero - Cartpole
 This repository is a python implementation of
-[DeepMind's "MuZero" reinforcement learning algorithm](https://arxiv.org/pdf/1911.08265.pdf). This solution was
-implemented for Openai's CartPole environment. This implementation can be used to solve other environments, provided you
-changed the implementation of proper models.
+[DeepMind's "MuZero" reinforcement learning algorithm](https://arxiv.org/pdf/1911.08265.pdf). The solution was
+implemented for Openai's CartPole environment. It can be used to solve other environments, provided you
+changed specific sections.
 
 # Overview:
 * Using Tensorflow v2 but with v2 behavior disabled
